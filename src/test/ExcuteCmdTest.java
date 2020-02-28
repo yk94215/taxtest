@@ -2,11 +2,8 @@ package test;
 import main.ExCuteCmd;
 import main.resources.ArgsRead;
 import org.junit.Test;
-
 import java.util.List;
-
 import static  org.junit.Assert.assertEquals;
-import static org.junit.Assert.*;
 public class ExcuteCmdTest
 {
 @Test
